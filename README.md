@@ -1,7 +1,7 @@
 # Time-series-classification-of-egg-futures
 This is a repository that compromise the datasets and code in our paper *Decision-making Method for Egg Futures Trading Based on Transfer Learning and Hybrid Deep Time Series Classification Model*.
 ## Environment settings
-- Using command pip install -r requirements.txt to install the required library.
+- Using command **pip install -r requirements.txt to install the required library**.
 ## Datesets
 - All Datesets in our paper are saved in **all_dataset** folder.
 - Before Training and evaluation, you need to copy the dataset that wants to evaluate to **data** folder, and run the **generate_stock_dataset.py** to generate \*.npy file. 
